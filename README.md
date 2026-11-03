@@ -1,7 +1,7 @@
-Becoming a Software Developer!
-- Currently in college part-time while working full-time.
-- Father of Three
-- Learning C++ and Java Currently.
+Becoming a Dev!
+- Father of 3
+- Work Full-Time in Tech
+- Learning Game Dev
 
 <!---
 TheFramPlay/TheFramPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
